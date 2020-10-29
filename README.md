@@ -1,3 +1,3 @@
 # release-test
 
-test3
+Automatic releases are working
